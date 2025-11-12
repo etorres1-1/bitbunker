@@ -1,5 +1,6 @@
 # bitbunker
- INTRODUCCIÓ
+ INTRODUCCIÓ:
+ 
 Nosaltres hem sigut contractats per poder dur a terme la construcció d'uns búnquers patentada per una empresa anomenada Vivos xPoint que està fent un projecte per posar búnquers a europa, i ens han escollit a nosaltres per a treballar en el sector espanyol.
  
    2. Context i necessitat
