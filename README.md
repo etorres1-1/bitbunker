@@ -1,6 +1,7 @@
 # bitbunker
  INTRODUCCIÓ
 Nosaltres hem sigut contractats per poder dur a terme la construcció d'uns búnquers patentada per una empresa anomenada Vivos xPoint que està fent un projecte per posar búnquers a europa, i ens han escollit a nosaltres per a treballar en el sector espanyol.
+ 
    2. Context i necessitat
 En aquesta empresa es necessiten persones capaces de fer el plantejament de la construcció dels búnquers, així com la configuració de la xarxa, les antenes, els sistemes de còpies de seguretat (backups), i també el desenvolupament de pàgines web per als clients d’aquests búnquers, entre altres tasques.
 
