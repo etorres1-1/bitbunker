@@ -13,5 +13,6 @@ Amb tot això, la nostra aportació permetrà oferir a l’empresa una base sòl
 A causa de tots els conflictes actuals, sumats als desastres naturals que ocorren sovint, s’ha popularitzat la cultura de voler disposar d’un mitjà per poder protegir-se d’aquests riscos. Als Estats Units s’han creat empreses especialitzades en la construcció de búnquers per protegir-se de possibles amenaces que puguin posar en perill la vida dels clients. 
 Aquest model de negoci s’ha anat expandint cap a Europa, i a Espanya necessiten persones amb coneixements avançats en informàtica que puguin elaborar plànols i sistemes que facilitin la recopilació d’informació, la construcció i el procés de desenvolupament.
 
-Avast
+Avast:
+
 El que farem en aquest projecte és crear una xarxa interconnectada entre els búnquers, els usuaris i l’empresa (NAT), així com establir còpies de seguretat de la informació que s’anirà rebent dels búnquers. També desenvoluparem una pàgina web per permetre l’accés; encara s’hauria de determinar quin seria l’ús més efectiu per als búnquers: ja sigui una plataforma per demanar i compartir recursos, una per llogar o comprar búnquers, o una per a la intercomunicació amb l’empresa. A més, elaborarem plànols sobre com podríem implementar-ho, incloent-hi elements com càmeres, alarmes, servidors amb entreteniment per a possibles usos, a més de comprovar-ne l’eficàcia. Instal·larem ordinadors amb sistemes operatius més adequats per a ciberseguretat i la possibilitat de connectar-hi ràdios o telèfons.
