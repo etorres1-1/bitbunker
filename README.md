@@ -18,16 +18,16 @@ Aquest model de negoci s’ha anat expandint cap a Europa, i a Espanya necessite
 ## 👤Abast:
 
 El que farem en aquest projecte és crear una xarxa interconnectada entre els búnquers, els usuaris i l’empresa, així com establir còpies de seguretat de la informació que s’anirà rebent dels búnquers. També desenvoluparem una pàgina web per permetre l’accés; encara s’hauria de determinar quin seria l’ús més efectiu per als búnquers: ja sigui una plataforma per demanar i compartir recursos, una per llogar o comprar búnquers, o una per a la intercomunicació amb l’empresa. A més, elaborarem plànols sobre com podríem implementar-ho, incloent-hi elements com càmeres, alarmes, servidors amb entreteniment per a possibles usos, a més de comprovar-ne l’eficàcia. Instal·larem ordinadors amb sistemes operatius més adequats per a ciberseguretat i la possibilitat de connectar-hi ràdios o telèfons.
-[!IMPORTANT]
-### Tots els moduls:
-+ M01 Muntatge i manteniment
-+ M02 Sistemes operatius monolloc
-+ M03 Aplicacions ofimàtiques
-+ M04 Sistemes operatius en xarxa
-+ M05 Xarxes locals
-+ M06 Seguretat informàtica
-+ M07 Serveis de xarxa
-+ M08 Aplicacions web
-+ M09 Formació i orientació laboral
-+ M10 Empresa i iniciativa emprenedora
-+ M11 Anglès tècnic
+>[!NOTE]
+>### Tots els moduls en què ens basem:
+>+ M01 Muntatge i manteniment
+>+ M02 Sistemes operatius monolloc
+>+ M03 Aplicacions ofimàtiques
+>+ M04 Sistemes operatius en xarxa
+>+ M05 Xarxes locals
+>+ M06 Seguretat informàtica
+>+ M07 Serveis de xarxa
+>+ M08 Aplicacions web
+>+ M09 Formació i orientació laboral
+>+ M10 Empresa i iniciativa emprenedora
+>+ M11 Anglès tècnic
