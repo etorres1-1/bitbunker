@@ -31,3 +31,19 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 >+ M09 Formació i orientació laboral
 >+ M10 Empresa i iniciativa emprenedora
 >+ M11 Anglès tècnic
+
+
+## Fases del projecte:
+
+### Fase 1:
+- 
+-
+-
+-
+-
+### Fase 2:
+-
+-
+-
+-
+-
