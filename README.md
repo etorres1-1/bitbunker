@@ -34,35 +34,35 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 >+ M11 Anglès tècnic
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-## Fases del projecte:
-
-## Fase 1  — Anàlisi i Planificació InicialDefinir l’abast, requeriments i estructura general del projecte:
-
-Anàlisi del terreny i necessitats dels búnquers a Catalunya.
-Estudi de necessitats de comunicació, seguretat i web.
-Definició dels objectius tècnics i funcionals y costos.
-Planificació del temps i assignació de responsabilitats.
-Mòduls relacionats: M09, M10, M11
-
-## Fase 2  — Disseny d'Infraestructura de Búnquers, Disseny de Xarxa i Comunicacions i Seguretat:
-
-Disseny dels plànols de distribució interna del búnquer.
-Ubicació de càmeres, alarmes, punts d’accés, servidors i antenes.
-Definició de l’alimentació elèctrica, ventilació i sistemes essencials.
-Propostes de sistemes d'entreteniment o serveis interns.
-Seguretat i Sistemes de Còpies de Seguretat
-Disseny de topologia de xarxa LAN dins de cada búnquer.
-Configuració de routers, switches, antenes i canals de comunicació.
-Instal·lació de sistemes operatius orientats a seguretat.
-Mòduls relacionats: M01, M05, M06, M04, M05, M07, M06, M02.
-
-## Fase 3 — Desenvolupament de la Pàgina Web Corporativa
-
-Crear un portal funcional per clients o per ús intern.
-Definir l’objectiu de la web (gestió de búnquers, portal de recursos, etc.).
-Disseny visual (UI).
-Implementación de la web (HTML, CSS, PHP, JS).
-Integració amb bases de dades i sistemes de l’empresa.
-Proves de seguretat i funcionalitat.
-Mòduls relacionats: M08, M03, M06, M07
+> 
+>## Fases del projecte:
+>
+>## Fase 1  — Anàlisi i Planificació InicialDefinir l’abast, requeriments i estructura general del projecte:
+>
+>Anàlisi del terreny i necessitats dels búnquers a Catalunya.
+>Estudi de necessitats de comunicació, seguretat i web.
+>Definició dels objectius tècnics i funcionals y costos.
+>Planificació del temps i assignació de responsabilitats.
+>Mòduls relacionats: M09, M10, M11
+>
+>## Fase 2  — Disseny d'Infraestructura de Búnquers, Disseny de Xarxa i Comunicacions i Seguretat:
+>
+>Disseny dels plànols de distribució interna del búnquer.
+>Ubicació de càmeres, alarmes, punts d’accés, servidors i antenes.
+>Definició de l’alimentació elèctrica, ventilació i sistemes essencials.
+>Propostes de sistemes d'entreteniment o serveis interns.
+>Seguretat i Sistemes de Còpies de Seguretat
+>Disseny de topologia de xarxa LAN dins de cada búnquer.
+>Configuració de routers, switches, antenes i canals de comunicació.
+>Instal·lació de sistemes operatius orientats a seguretat.
+>Mòduls relacionats: M01, M05, M06, M04, M05, M07, M06, M02.
+>
+>## Fase 3 — Desenvolupament de la Pàgina Web Corporativa
+>
+>Crear un portal funcional per clients o per ús intern.
+>Definir l’objectiu de la web (gestió de búnquers, portal de recursos, etc.).
+>Disseny visual (UI).
+>Implementación de la web (HTML, CSS, PHP, JS).
+>Integració amb bases de dades i sistemes de l’empresa.
+>Proves de seguretat i funcionalitat.
+>Mòduls relacionats: M08, M03, M06, M07
