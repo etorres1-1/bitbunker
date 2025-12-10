@@ -32,7 +32,7 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 >+ M10 Empresa i iniciativa emprenedora
 >+ M11 Anglès tècnic
 
->[!IMPORTANT]
+> [!IMPORTANT]
 ## Fases del projecte:
 
 ## Fase 1  — Anàlisi i Planificació InicialDefinir l’abast, requeriments i estructura general del projecte:
