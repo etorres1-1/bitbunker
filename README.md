@@ -18,7 +18,7 @@ Aquest model de negoci s’ha anat expandint cap a Europa, i a Espanya necessite
 ## 👤Abast:
 
 El que farem en aquest projecte és crear una xarxa interconnectada entre els búnquers, els usuaris i l’empresa, així com establir còpies de seguretat de la informació que s’anirà rebent dels búnquers. També desenvoluparem una pàgina web per permetre l’accés; encara s’hauria de determinar quin seria l’ús més efectiu per als búnquers: ja sigui una plataforma per demanar i compartir recursos, una per llogar o comprar búnquers, o una per a la intercomunicació amb l’empresa. A més, elaborarem plànols sobre com podríem implementar-ho, incloent-hi elements com càmeres, alarmes, servidors amb entreteniment per a possibles usos, a més de comprovar-ne l’eficàcia. Instal·larem ordinadors amb sistemes operatius més adequats per a ciberseguretat i la possibilitat de connectar-hi ràdios o telèfons.
->[!NOTA]
+>[!NOTE]
 >### Tots els moduls en què ens basem:
 >+ M01 Muntatge i manteniment
 >+ M02 Sistemes operatius monolloc
@@ -35,8 +35,7 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 >[!IMPORTANT]
 ## Fases del projecte:
 
-### Fase 1  — Anàlisi i Planificació Inicial:
-Definir l’abast, requeriments i estructura general del projecte.
+## Fase 1  — Anàlisi i Planificació InicialDefinir l’abast, requeriments i estructura general del projecte:
 
 Anàlisi del terreny i necessitats dels búnquers a Catalunya.
 Estudi de necessitats de comunicació, seguretat i web.
@@ -44,7 +43,7 @@ Definició dels objectius tècnics i funcionals y costos.
 Planificació del temps i assignació de responsabilitats.
 Mòduls relacionats: M09, M10, M11
 
-### Fase 2  — Disseny d'Infraestructura de Búnquers, Disseny de Xarxa i Comunicacions i Seguretat:
+## Fase 2  — Disseny d'Infraestructura de Búnquers, Disseny de Xarxa i Comunicacions i Seguretat:
 
 Disseny dels plànols de distribució interna del búnquer.
 Ubicació de càmeres, alarmes, punts d’accés, servidors i antenes.
@@ -56,7 +55,7 @@ Configuració de routers, switches, antenes i canals de comunicació.
 Instal·lació de sistemes operatius orientats a seguretat.
 Mòduls relacionats: M01, M05, M06, M04, M05, M07, M06, M02.
 
-### Fase 3 — Desenvolupament de la Pàgina Web Corporativa
+## Fase 3 — Desenvolupament de la Pàgina Web Corporativa
 
 Crear un portal funcional per clients o per ús intern.
 Definir l’objectiu de la web (gestió de búnquers, portal de recursos, etc.).
