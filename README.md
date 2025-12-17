@@ -1,6 +1,6 @@
 
 # Bitbunker
-![Bitbunkerlogo](https://raw.githubusercontent.com/etorres1-1/bitbunker/refs/heads/main/Bitbunkerlogo.png)
+![Bitbunkerlogo](https://raw.githubusercontent.com/etorres1-1/bitbunker/refs/heads/main/bitbunkerlogo.png)
 ## 💬INTRODUCCIÓ: 
 Nosaltres hem sigut contractats per poder dur a terme la construcció d'uns búnquers patentada per una empresa anomenada Vivos xPoint que està fent un projecte per posar búnquers a europa, i ens han escollit a nosaltres per a treballar en el sector espanyol, concretament començarem el projecte a Catalunya degut a la nostre experiencia sobre aquest territori.
  
