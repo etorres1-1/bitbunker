@@ -36,7 +36,7 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 > 
 >## Fases del projecte:
 >
->## Previa  — Anàlisi i Planificació Inicial, definir l’abast, requeriments i estructura general del projecte:
+>## Previa  — Anàlisi i Planificació Inicial, definir l’abast, requisits i estructura general del projecte:
 >
 >Anàlisi del terreny i necessitats dels búnquers a Catalunya.
 >Estudi de necessitats de comunicació, seguretat i web.
