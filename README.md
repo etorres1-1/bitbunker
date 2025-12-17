@@ -36,7 +36,7 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 > 
 >## Fases del projecte:
 >
->## Fase 1  — Anàlisi i Planificació InicialDefinir l’abast, requeriments i estructura general del projecte:
+>## Previa  — Anàlisi i Planificació Inicial, definir l’abast, requeriments i estructura general del projecte:
 >
 >Anàlisi del terreny i necessitats dels búnquers a Catalunya.
 >Estudi de necessitats de comunicació, seguretat i web.
@@ -44,7 +44,7 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 >Planificació del temps i assignació de responsabilitats.
 >Mòduls relacionats: M09, M10, M11
 >
->## Fase 2  — Disseny d'Infraestructura de Búnquers, Disseny de Xarxa i Comunicacions i Seguretat:
+>## Fase 1  — Disseny d'Infraestructura de Búnquers, Disseny de Xarxa i Comunicacions i Seguretat:
 >
 >Disseny dels plànols de distribució interna del búnquer.
 >Ubicació de càmeres, alarmes, punts d’accés, servidors i antenes.
@@ -56,7 +56,7 @@ El que farem en aquest projecte és crear una xarxa interconnectada entre els b�
 >Instal·lació de sistemes operatius orientats a seguretat.
 >Mòduls relacionats: M01, M05, M06, M04, M05, M07, M06, M02.
 >
->## Fase 3 — Desenvolupament de la Pàgina Web Corporativa
+>## Fase 2 — Desenvolupament de la Pàgina Web Corporativa
 >
 >Crear un portal funcional per clients o per ús intern.
 >Definir l’objectiu de la web (gestió de búnquers, portal de recursos, etc.).
