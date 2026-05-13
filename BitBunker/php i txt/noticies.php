@@ -1,10 +1,10 @@
 <?php
 $linies = file("noticies.txt");
 
-// últimes primer
+
 $linies = array_reverse($linies);
 
-// només 9
+
 $linies = array_slice($linies, 0, 9);
 ?>
 
